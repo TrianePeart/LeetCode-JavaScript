@@ -24,3 +24,4 @@ Solved LeetCode Problems in JavaScript currently a work in progress. Links found
 * [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/932548857/)
 * [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/submissions/980347045/)
 * [68. Text Justification](https://leetcode.com/problems/text-justification/submissions/980356066/)
+* [65. Valid Number](https://leetcode.com/problems/valid-number/submissions/923058800/)
