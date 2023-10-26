@@ -19,4 +19,4 @@ var twoSum = function(nums, target) {
 // Space Complexity: O(n) - In the worst case, the map can store all elements.
 
 // Possible Optimization:
-// The given code is already  efficient with a time complexity of O(n). Further optimization would be challenging without changing the fundamental algorithm. However, if memory usage is a concern, its possible to consider alternative data structures to reduce space complexity.
+// The given code is already efficient with a time complexity of O(n). Further optimization would be challenging without changing the fundamental algorithm. However, if memory usage is a concern, its possible to consider alternative data structures to reduce space complexity.
