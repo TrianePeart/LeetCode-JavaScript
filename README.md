@@ -1,7 +1,7 @@
 # LeetCode-JavaScript
 Solved LeetCode Problems in JavaScript currently a work in progress. Links found in ReadMe will be expanded upon within the solutions personal file. 
-##### Easy
 
+##### Easy
 * [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/submissions/1081538962/)
 * [1. Two Sum](https://leetcode.com/problems/two-sum/submissions/923670356/)
 * [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/923677052/)
@@ -15,6 +15,7 @@ Solved LeetCode Problems in JavaScript currently a work in progress. Links found
 * [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/submissions/084238989/)
 * [2190. Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/submissions/1084242815/)
 * [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/submissions/1085561521/) 
+* [383. Ransom Note](https://leetcode.com/problems/ransom-note/submissions/1085582701/)
 
 ##### Medium
 * [2649. Nested Array Generator](https://leetcode.com/problems/nested-array-generator/submissions/988084415/)
