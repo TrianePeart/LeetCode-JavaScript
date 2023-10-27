@@ -16,6 +16,7 @@ Solved LeetCode Problems in JavaScript currently a work in progress. Links found
 * [2190. Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/submissions/1084242815/)
 * [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/submissions/1085561521/) 
 * [383. Ransom Note](https://leetcode.com/problems/ransom-note/submissions/1085582701/)
+* [1748. Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/submissions/1085595882/) 
 
 ##### Medium
 * [2649. Nested Array Generator](https://leetcode.com/problems/nested-array-generator/submissions/988084415/)
