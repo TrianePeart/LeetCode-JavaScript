@@ -9,12 +9,12 @@ Solved LeetCode Problems in JavaScript currently a work in progress. Links found
 * [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/937177674/)
 * [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/937181612/)
 * [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/submissions/923051883/)
-* [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/)
-* [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/)
-* [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/submissions/)
-* [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/submissions/)
-* [2190. Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/submissions/)
-* [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/submissions/) 
+* [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/1084186813/)
+* [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/1084215422/)
+* [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/submissions/1084233821/)
+* [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/submissions/084238989/)
+* [2190. Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/submissions/1084242815/)
+* [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/submissions/1085561521/) 
 
 ##### Medium
 * [2649. Nested Array Generator](https://leetcode.com/problems/nested-array-generator/submissions/988084415/)
