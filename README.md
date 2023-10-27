@@ -14,6 +14,7 @@ Solved LeetCode Problems in JavaScript currently a work in progress. Links found
 * [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/submissions/)
 * [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/submissions/)
 * [2190. Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/submissions/)
+* [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/submissions/) 
 
 ##### Medium
 * [2649. Nested Array Generator](https://leetcode.com/problems/nested-array-generator/submissions/988084415/)
