@@ -34,3 +34,4 @@ Solved LeetCode Problems in JavaScript currently a work in progress. Links found
 * [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/submissions/980347045/)
 * [68. Text Justification](https://leetcode.com/problems/text-justification/submissions/980356066/)
 * [65. Valid Number](https://leetcode.com/problems/valid-number/submissions/923058800/)
+* [1987. Number of Unique Good Subsequences]()
